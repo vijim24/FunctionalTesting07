@@ -49,7 +49,7 @@ public class EcommerceApp01 {
 
 //		Adding the vegetables needed in the basket in the form of Array List
 		EcommerceUtil util = new EcommerceUtil();
-		util.vegetableHandler(driver);
+		EcommerceUtil.vegetableHandler(driver);
 		
 //		EcommerceUtil.vegetableHandler(driver);
 		
